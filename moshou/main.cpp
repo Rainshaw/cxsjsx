@@ -159,8 +159,10 @@ int deal() {
     _SoliderCreate[2]=Iceman::create;
     _SoliderCreate[3]=Lion::create;
     _SoliderCreate[4]=Wolf::create;
-
-    while (cycle--) {
+    int count=0;
+    while (count<cycle) {
+        count++;
+        cout<<"Case:"<<count<<endl;
         unsigned int HP;
         scanf("%d", &HP);
         init();
