@@ -6,15 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/rainshaw/Desktop/Code/CLionProjects/cxsjsx/moshou/main.cpp
+/Users/rainshaw/Desktop/Code/CLionProjects/cxsjsx/test/main.cpp
 iostream
--
-map
--
-vector
--
-cstring
--
-functional
 -
 
