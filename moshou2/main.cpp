@@ -1,6 +1,9 @@
 #include <iostream>
 #include <map>
 #include <vector>
+#include <cstring>
+#include <functional>
+
 
 using namespace std;
 
