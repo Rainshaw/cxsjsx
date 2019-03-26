@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rainshaw/Desktop/Code/CLionProjects/cxsjsx/homework7/homework7.5/main.cpp
+iostream
+-
+string
+-
+
