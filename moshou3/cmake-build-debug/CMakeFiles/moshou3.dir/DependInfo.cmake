@@ -6,7 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/rainshaw/Desktop/Code/CLionProjects/cxsjsx/moshou3/main.cpp" "/Users/rainshaw/Desktop/Code/CLionProjects/cxsjsx/moshou3/cmake-build-debug/CMakeFiles/moshou3.dir/main.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "AppleClang")
+set(CMAKE_CXX_COMPILER_ID "GNU")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH

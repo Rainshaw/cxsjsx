@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rainshaw/Desktop/Code/CLionProjects/cxsjsx/moshou3/main.cpp
+iostream
+-
+map
+-
+vector
+-
+cstring
+-
+functional
+-
+list
+-
+algorithm
+-
+cassert
+-
+
