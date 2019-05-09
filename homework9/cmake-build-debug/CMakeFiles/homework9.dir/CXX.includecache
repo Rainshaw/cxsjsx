@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rainshaw/Desktop/Code/CLionProjects/cxsjsx/homework9/main.cpp
+iostream
+-
+cstring
+-
+cmath
+-
+fstream
+-
+
